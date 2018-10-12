@@ -3,7 +3,7 @@ Retrieving User Resources from Google over the OAuth 2.0 Authorization Code Gran
 
 Sample running instructions
 
-1.create a new app from console.developers.google.com.
+1.Create a new app from console.developers.google.com.
 
 2.Find your app id , app secret and save it in a text document
 
