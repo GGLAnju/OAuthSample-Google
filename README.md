@@ -4,7 +4,9 @@ Retrieving User Resources from Google over the OAuth 2.0 Authorization Code Gran
 Sample running instructions
 
 1.create a new app from console.developers.google.com.
+
 2.Find your app id , app secret and save it in a text document
+
 3.Go to config.php file in sample code
 4.In config.php file replace app id with your app id
 5.Replace secret with your app secret
